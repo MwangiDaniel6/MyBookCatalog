@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBookCatalog</string>
+    <string name="back_to_list">Back to List</string>
+    <string name="author_photo">Author Photo</string>
+    <string name="author_image">Author Image</string>
+    <string name="author_format">Author: %1$s</string>
+    <string name="genre_format">Genre: %1$s</string>
+</resources>
